@@ -6,16 +6,10 @@
 	"publisher": "MaeplLabs",
 	"license": "MIT",
 	"authors": [
-		[
-			{
-				"name": "Russell Canfield",
-				"email": "rcanfield86@gmail.com"
-			},
-			{
-				"name": "Harlen Alvarez",
-				"email": "harlenalvarez@gmail.com"
-			}
-		]
+		{
+			"name": "Dosumu Andrew",
+			"email": "Andrewdosumu0@gmail.com"
+		}
 	],
 	"scripts": {
 		"build": "tsc -b"

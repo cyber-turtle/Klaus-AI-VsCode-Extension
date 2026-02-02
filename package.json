@@ -10,29 +10,16 @@
 		"views-ui"
 	],
 	"authors": [
-		[
-			{
-				"name": "Dosumu Andrew",
-				"email": "Andrewdosumu0@gmail.com"
-			}
-			
-		]
+		{
+			"name": "Dosumu Andrew",
+			"email": "Andrewdosumu0@gmail.com"
+		}
 	],
 	"icon": "media/icon.png",
 	"galleryBanner": {
 		"color": "#262626",
 		"theme": "dark"
 	},
-	"contributors": [
-		{
-			"name": "Russell Canfield",
-			"email": "rcanfield86@gmail.com"
-		},
-		{
-			"name": "Harlen Alvarez",
-			"email": "harlenalvarez@gmail.com"
-		}
-	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/cyber-turtle/Klaus-AI-VsCode-Extension"
