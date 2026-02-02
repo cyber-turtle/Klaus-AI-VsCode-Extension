@@ -1,0 +1,1 @@
+{"version":3,"file":"SkeletonLoader.js","sourceRoot":"","sources":["SkeletonLoader.tsx"],"names":[],"mappings":";;;AAAA,gCAA8B;AAEvB,MAAM,cAAc,GAAG,CAAC,EAAE,WAAW,EAA4B,EAAE,EAAE;IAC3E,OAAO,CACN,CAAC,GAAG,CAAC,SAAS,CAAC,CAAC,GAAG,WAAW,CAAC,CAAC,CAAC,cAAc,CAAC,CAAC,CAAC,aAAa,EAAE,CAAC,EAAG,CACrE,CAAC;AACH,CAAC,CAAC;AAJW,QAAA,cAAc,kBAIzB"}

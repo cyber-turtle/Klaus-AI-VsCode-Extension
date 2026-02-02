@@ -1,0 +1,14 @@
+import { LineInformation } from "./compute-lines";
+interface Block {
+    index: number;
+    startLine: number;
+    endLine: number;
+    lines: number;
+}
+interface HiddenBlocks {
+    lineBlocks: Record<number, number>;
+    blocks: Block[];
+}
+export declare function computeHiddenBlocks(lineInformation: LineInformation[], diffLines: number[], extraLines: number): HiddenBlocks;
+export {};
+//# sourceMappingURL=compute-hidden-blocks.d.ts.map

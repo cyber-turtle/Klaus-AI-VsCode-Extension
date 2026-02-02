@@ -1,0 +1,25 @@
+{
+	"name": "klaus-shared",
+	"displayName": "Klaus",
+	"description": "Klaus from Maepl Labs - AI powered assistant to help you write your best code, we won't leave you hanging.",
+	"version": "0.5.2",
+	"publisher": "MaeplLabs",
+	"license": "MIT",
+	"authors": [
+		[
+			{
+				"name": "Russell Canfield",
+				"email": "rcanfield86@gmail.com"
+			},
+			{
+				"name": "Harlen Alvarez",
+				"email": "harlenalvarez@gmail.com"
+			}
+		]
+	],
+	"scripts": {
+		"build": "tsc -b"
+	},
+	"dependencies": {},
+	"devDependencies": {}
+}

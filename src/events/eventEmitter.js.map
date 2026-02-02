@@ -1,0 +1,1 @@
+{"version":3,"file":"eventEmitter.js","sourceRoot":"","sources":["eventEmitter.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,+CAAiC;AAEjC,MAAM,YAAY;IAAlB;QACQ,kBAAa,GACnB,IAAI,MAAM,CAAC,YAAY,EAAQ,CAAC;QAC1B,kBAAa,GACnB,IAAI,MAAM,CAAC,YAAY,EAAQ,CAAC;QAC1B,qBAAgB,GACtB,IAAI,MAAM,CAAC,YAAY,EAAQ,CAAC;IAClC,CAAC;CAAA;AAED,MAAM,YAAY,GAAG,IAAI,YAAY,EAAE,CAAC;AAC/B,oCAAY"}

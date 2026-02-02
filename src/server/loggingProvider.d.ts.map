@@ -1,0 +1,1 @@
+{"version":3,"file":"loggingProvider.d.ts","sourceRoot":"","sources":["loggingProvider.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,sBAAsB,CAAC;AAE7D,qBAAa,sBAAuB,YAAW,gBAAgB;IACvD,OAAO,CAAC,OAAO,EAAE,MAAM,GAAG,IAAI;IAI9B,QAAQ,CAAC,cAAc,EAAE,MAAM,GAAG,KAAK,GAAG,OAAO,GAAG,IAAI;IAQxD,OAAO;CAGd;AAcD,QAAA,MAAM,eAAe,wBAA+B,CAAC;AACrD,OAAO,EAAE,eAAe,EAAE,CAAC"}
