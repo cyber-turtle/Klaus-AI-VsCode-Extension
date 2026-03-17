@@ -4,6 +4,8 @@ Klaus is an advanced AI-powered coding assistant extension for Visual Studio Cod
 
 ## Overview
 
+![Klaus AI](media/klausIMG.png)
+
 Klaus integrates seamlessly into your VS Code workflow, providing context-aware assistance for coding tasks, refactoring, documentation generation, and complex multi-file operations. Built on the core intelligence that achieved a **70% success rate** on the **SWE-bench Verified** benchmark, Klaus brings professional-grade agentic performance to your local environment. It adapts to your development workflow with support for multiple AI providers and extensibility through the Model Context Protocol (MCP).
 
 ## Core Features
