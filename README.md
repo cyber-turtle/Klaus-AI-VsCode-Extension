@@ -1,6 +1,6 @@
 # <img src="media/klaus_logo_doc.png" width="40" align="center" style="margin-right: 15px;"> Klaus AI - Intelligent Coding Assistant
 
-Klaus is an advanced AI-powered coding assistant extension for Visual Studio Code, designed and developed by **Maepl Labs** and inspired by the **Wingman-ai** project. It combines intelligent code completion, autonomous coding capabilities, and an interactive chat interface to enhance developer productivity and code quality.
+Klaus is an advanced AI-powered coding assistant extension for Visual Studio Code, designed and developed by **Maepl Labs** It combines intelligent code completion, autonomous coding capabilities, and an interactive chat interface to enhance developer productivity and code quality.
 
 ## Overview
 
